@@ -13,7 +13,7 @@ const slogans = [
     "You are always filled with pure feeling for all. In your company, everyone realizes their true potential.",
     "Your high sense of self-respect enables you to remain positive in all situations.",
     "You will travel far in life, because you travel light, free of the baggage of the past.",
-    "You change your world beautiful and serene with positive and pure.",
+    "You change your world beautiful and serene with positive and pure thoughts.",
     "You experience the depth of God, the Ocean of Love, by having love for solitude.",
     "As you remain in God's company, you sparkle with the beauty of purity and your loving nature touches hearts.",
     "As a world server with a pure vision of brotherhood, you hold all souls in your heart with a true spirit of respect.",
@@ -46,16 +46,16 @@ const slogans = [
     "Each day is new and precious. You realize this and welcome each moment with wondrous joy.",
     "You recognize that each human being is unique and appreciate the beauty they add to life like flowers in a garden.",
     "You radiate with the realization that peaceful thoughts create a peaceful world.",
-    "You let your quiet inner noice of intuition guide you in the right direction.",
+    "You let your quiet inner voice of intuition guide you in the right direction.",
     "You realize there's benifit in every moment. You always reflect your virtues in each situation and remain carefree.",
     "You experience happiness through your own progress in each situation.",
     "You shine the light of courage. You have the courage to be honest with yourself and keep your intetions pure.",
     "You know that every moment of this life is valuable. You continue to grow worthy in each second.",
     "You are aware of where your attention goes and energies to grow virtues and strengths.",
-    "You are a selfless sever who always remains content and shares happiness with others.",
+    "You are a selfless server who always remains content and shares happiness with others.",
     "Sparkle on your face reflects your orignal virtues of purity, peace and happiness.",
     "You shine the light of faith. You have unshakeable faith in yourself, the power of goodness and in life. Your faith makes the impossible possible.",
-    "You create happiness by offering something to everyone you meet- a smile, a nice compliment, co-operation with you time and energy."
+    "You create happiness by offering something to everyone you meet- a smile, a nice compliment, co-operation with your time and energy."
 
 
 
