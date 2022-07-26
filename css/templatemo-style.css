@@ -44,7 +44,7 @@ a:focus {
             justify-content: center;
 }
 
-.cd-hero-slider li:first-of-type { background-image: url('../img/bk-background.png'); } /*linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),*/
+.cd-hero-slider li:first-of-type { background-image: linear-gradient(rgba(80, 0, 0, 0.5), rgba(0, 0, 0, 0)),url('../img/bk-background.png'); } /*linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),*/
 .cd-hero-slider li:nth-of-type(2) {	background-image: url('../img/Raksha-Bandhan-BK.jpeg'); }
 .cd-hero-slider li:nth-of-type(3) {	background-image: url('../img/Raksha-Bandhan-Hero-Section.jpeg'); }
 
@@ -125,16 +125,16 @@ a:focus {
 
 
 
-.cd-hero-slider .cd-btn-back,
-.cd-hero-slider .form-control { border-radius: 2px; }
-.cd-btn-back { border-radius: 4px; }
+/*.cd-hero-slider .cd-btn-back,
+.cd-hero-slider .form-control { border-radius: 3px; }*/
+.cd-btn-back { border-radius: 5px; }
 
-.cd-hero-slider .cd-btn-back { 
+.cd-btn-back { /* .cd-hero-slider */
 	font-size: 0.5rem; 
-	padding: 0.2em 1em;
+	padding: 0.1em 0.8em;
 }
 
-.cd-hero-slider .cd-btn-back,
+/*.cd-hero-slider .cd-btn-back,*/
 .cd-btn-back {
 	background-color: #0099cb;
 	border: none;

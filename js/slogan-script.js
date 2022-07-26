@@ -79,8 +79,9 @@ function qs() {
             var key = parms[i].substring(0, pos);
             var val = parms[i].substring(pos + 1);
             qsParm[key] = val;
+            val = val.replace(/[+]/g," "); //replace + sign with spaces
             //set the blessing username
-            $("#username").text ('Dear ' + qsParm[key]);
+            $("#username").text ('Dear ' + val);//qsParm[key]
 
             }
     }
